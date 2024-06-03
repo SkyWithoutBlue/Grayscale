@@ -12255,3 +12255,7 @@ body {
 body.blocked {
   overflow: hidden;
 }
+
+.navbar.blocked {
+  z-index: 1;
+}
